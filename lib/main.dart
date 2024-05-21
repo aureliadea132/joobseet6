@@ -32,15 +32,15 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   final List<String> _listNama = [
-    'Bagus',
-    'Budi',
-    'Andi',
+    'Aurel',
+    'yesa',
+    'satna',
     'Sari',
-    'Rudi',
-    'Nurul',
-    'Huda',
-    'Lendis',
-    'Fabri'
+    'Raul',
+    'fika',
+    'Vernanda',
+    'gendis',
+    'Fajri'
   ];
 
   final List<Color> _listWarna = [
